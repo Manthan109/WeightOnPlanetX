@@ -1,6 +1,9 @@
 # weight_on_planet
 
-A new Flutter project.
+A new Flutter project.This is a simple app to calculate your weight on other planet. I am very well aware that pluto in no longer a planet but i have just added it.
+
+![weightOnPlanetX](https://user-images.githubusercontent.com/42516515/59157286-bf0cfa80-8ac5-11e9-94ff-3392e97e8278.PNG)
+
 
 ## Getting Started
 
